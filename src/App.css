@@ -104,3 +104,8 @@ a{
     background-size: cover;
     background-position: center;
 }
+
+.nav .right a:hover {
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
